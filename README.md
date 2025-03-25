@@ -37,6 +37,23 @@ This project focuses on identifying potential therapeutic targets for rare disea
 - [Discussion and Development](#discussion_and_development)
 
 
+## 🗂️ Repository Structure
+
+```
+Jaber-Valinejad/
+├── Analysis/               <- Code and notebooks for various analyses
+├── AuraDB/                <- Configs or scripts for AuraDB setup or integration
+├── Data/                  <- Datasets and preprocessed data
+├── Docs/                  <- Documentation, drafts, or notes
+├── Figs/                  <- Figures and visualizations
+├── LLM/                   <- Scripts or notebooks for working with large language models
+├── Neo4j/                 <- Graph database queries, data models, or Cypher scripts
+├── Dockerfile             <- Docker configuration for environment setup
+├── LICENSE                <- Repository license
+├── README.md              <- Project overview (You are here!)
+├── Report.md              <- Detailed report or documentation
+└── requirements-dev.txt   <- Development environment dependencies
+```
 
 ## Data Collection and Sources
 
