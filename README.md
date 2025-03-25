@@ -41,18 +41,13 @@ This project focuses on identifying potential therapeutic targets for rare disea
 
 ```
 Jaber-Valinejad/
-├── Analysis/               <- Code and notebooks for various analyses
-├── AuraDB/                <- Configs or scripts for AuraDB setup or integration
-├── Data/                  <- Datasets and preprocessed data
-├── Docs/                  <- Documentation, drafts, or notes
-├── Figs/                  <- Figures and visualizations
-├── LLM/                   <- Scripts or notebooks for working with large language models
-├── Neo4j/                 <- Graph database queries, data models, or Cypher scripts
-├── Dockerfile             <- Docker configuration for environment setup
-├── LICENSE                <- Repository license
-├── README.md              <- Project overview (You are here!)
-├── Report.md              <- Detailed report or documentation
-└── requirements-dev.txt   <- Development environment dependencies
+├── Data/                  <- Raw or processed datasets (not tracked by Git if large or sensitive)
+├── Docs/                  <- Project documentation, notes, or references
+├── Figs/                  <- Figures, charts, or visualizations generated during the project
+├── Methods/               <- Scripts, notebooks, or descriptions of methods and workflows
+├── LICENSE                <- License file specifying terms of use and distribution
+├── README.md              <- Overview of the project, setup instructions, and repository guide (You are here!)
+└── requirements-dev.txt   <- Python dependencies for development and testing
 ```
 
 ## Data Collection and Sources
